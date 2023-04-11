@@ -1,12 +1,14 @@
 # ElectricityPrices-TimeSeries-forecast-and-Explanatory-Data-Analysis
 ## summary of the process:
-* import all the libraries needed
-* loaded the dataset
-* checked for the datatypes and summary statistics, as well as the correlations within the dataset
+* Imported all the libraries needed
+* Loaded the dataset
+* Checked for the datatypes and summary statistics, as well as the correlations within the dataset
 * Differentiated between the catgorical and the numerical columns
-* Performed explanatory data analysis to further gain insights
+* Checked for missing values and replaced missing values with mean value for each column
+* Performed explanatory data analysis to further gain insights ( create a heatmap to show consumption patterns by time of day and day of week),(plotted the energy consumption for each country over time)
+* Decomposed time series of each column and computed autocorrelation and partial autocorrelation
 * combined the date and hour column into a single column (datetime)
-* split the data into train and test sets, where i make predictions with ARIMA model and plot actual and predicted energy consumptions for all the countries each.
+* Split the data into train and test sets, where i make predictions with ARIMA model and plot actual and predicted energy consumptions for all the countries each.
 * Split the dataset into train and test sets, where i made prediction with Linear Regression for energy consumption forecast
 * Built energy pricing models for business planning and strategy with hourly granularity
 * Conducted exploratory data analysis (EDA) to understand the distribution of the hourly prices across countries and the relationships between them. I found that:
