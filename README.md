@@ -1,4 +1,4 @@
-# ElectricityPrices-its-Prediction-forecast-and-Explanatory-Data-Analysis
+# ElectricityPrices-TimeSeries-forecast-and-Explanatory-Data-Analysis
 ## summary of the process:
 * import all the libraries needed
 * loaded the dataset
