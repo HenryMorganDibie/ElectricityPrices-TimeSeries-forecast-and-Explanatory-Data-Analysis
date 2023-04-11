@@ -26,4 +26,4 @@ The strongest correlations were between France and Belgium, and between Germany 
 * Visualized the impact of cross-border trading on hourly prices using line plots and heatmaps, and identified trends such as:
 Price spikes in importing countries following periods of high trading volume.
 Delayed price effects in exporting countries following periods of high trading volume.
-Overall, this analysis provides insights into the dynamics and trends of the hourly energy market in Europe, and highlights the importance of cross-border electricity trading in determining prices.
+* Overall, this analysis provides insights into the dynamics and trends of the hourly energy market in Europe, and highlights the importance of cross-border electricity trading in determining prices.
